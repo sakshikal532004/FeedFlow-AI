@@ -169,6 +169,6 @@ POST /generate-strategy
 
 # 👩‍💻 Author
 
-**Sakshi Kalal**
+**Sakshi Kalyankar**
 
 Built with ❤️ using React Native, FastAPI, Supabase and Gemini AI.
