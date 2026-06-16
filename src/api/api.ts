@@ -1,5 +1,5 @@
 
-const BASE_URL = "http://10.110.68.201:8000";
+const BASE_URL = "https://feedflow-ai.onrender.com";
 
 /* ---------------- Dashboard ---------------- */
 
