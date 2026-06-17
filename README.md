@@ -121,7 +121,7 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 ---
 
-# 📊 API Endpoints
+#  API Endpoints
 
 ## Authentication
 
@@ -167,8 +167,8 @@ POST /generate-strategy
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Sakshi Kalyankar**
 
-Built with ❤️ using React Native, FastAPI, Supabase and Gemini AI.
+Built with using React Native, FastAPI, Supabase and Gemini AI.
